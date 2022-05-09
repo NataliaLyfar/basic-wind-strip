@@ -1,0 +1,1 @@
+# basic-wind-strip
